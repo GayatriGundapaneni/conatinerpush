@@ -4,6 +4,8 @@
 
 `docker network create demo`
 
+`PAT token: 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`
+
 ### Build the client 
 
 ```sh
