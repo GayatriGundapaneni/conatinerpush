@@ -1,5 +1,2 @@
-.idea/
-venv/
-*.pyc
-.cache/
-*.db
+node_modules/
+config.env
